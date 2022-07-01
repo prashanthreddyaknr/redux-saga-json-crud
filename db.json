@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@gmail.com",
+      "phone": 848494858,
+      "address": "USA"
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "phone": "45245454",
+      "address": "US",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "email": "asdfasdf@emailcom",
+      "phone": "6456456",
+      "address": "US",
+      "id": 4
+    },
+    {
+      "name": "dsgd",
+      "email": "asdfasdf@emailcom",
+      "phone": "86767678",
+      "address": "US",
+      "id": 5
+    }
+  ]
+}
